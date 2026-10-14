@@ -7,7 +7,7 @@
 **Buzul çağında hayatta kalma macerasını artık tamamen Türkçe yaşayın!**
 
 [![Sürüm](https://img.shields.io/badge/Uyumlu%20Sürüm-v0.44.3.4666-1e90ff?style=for-the-badge&logo=steam&logoColor=white)](#-yama-bilgileri)
-[![Güncelleme](https://img.shields.io/badge/Güncelleme-13.10.2026-00bcd4?style=for-the-badge&logo=clockify&logoColor=white)](#-yama-bilgileri)
+[![Güncelleme](https://img.shields.io/badge/Güncelleme-14.10.2026-00bcd4?style=for-the-badge&logo=clockify&logoColor=white)](#-yama-bilgileri)
 [![Dil](https://img.shields.io/badge/Dil-Türkçe-e30a17?style=for-the-badge)](#)
 
 <br>
@@ -37,11 +37,32 @@ Bu yama ile oyundaki menüler, arayüz ve metinler **Türkçe** olarak karşın�
 |---|---|
 | 🎮 **Oyun** | Permafrost |
 | 🔢 **Uyumlu Sürüm** | `v0.44.3.4666` |
-| 📅 **Güncelleme Tarihi** | 13.10.2026 |
+| 📅 **Güncelleme Tarihi** | 14.10.2026 |
+| 🏷️ **Yama Sürümü** | `v0.44.3.4666-fix1` |
 | 🌐 **Dil** | Türkçe |
 | 👤 **Geliştirici** | [buadamlaz](https://github.com/buadamlaz) |
 
 > ⚠️ **Not:** Yama yalnızca belirtilen oyun sürümü ile test edilmiştir. Oyun güncellendiğinde yamanın da güncellenmesi gerekebilir.
+
+---
+
+## 📜 Değişiklik Günlüğü
+
+### 🔧 `v0.44.3.4666-fix1` — 14.10.2026
+> 🎮 Oyun sürümü değişmedi (`v0.44.3.4666`), çeviri hataları giderildi.
+
+- 🛠️ **Eşya üretimi (crafting) seçeneklerinde** yanlış görünen değer çevirileri düzeltildi:
+
+  | ❌ Önce | ✅ Şimdi |
+  |:---:|:---:|
+  | `Daha İyi 10` | `+10` |
+  | `Daha Kötü 10` | `-10` |
+
+### 🎉 `v0.44.3.4666` — 13.10.2026
+- 🚀 İlk sürüm yayınlandı.
+- 🇹🇷 Menüler, arayüz ve oyun içi metinler Türkçeleştirildi.
+
+> 💡 Güncelleme yaparken yeni zip'i indirip aynı şekilde ana dizine çıkarmanız ve dosyaların üzerine yazmanız yeterlidir.
 
 ---
 
