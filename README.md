@@ -41,6 +41,7 @@ Bu yama ile oyundaki menüler, arayüz ve metinler **Türkçe** olarak karşın�
 | 🏷️ **Yama Sürümü** | `v0.44.3.4666-fix1` |
 | 🌐 **Dil** | Türkçe |
 | 👤 **Geliştirici** | [buadamlaz](https://github.com/buadamlaz) |
+| 💬 **Discord** | `@buadamlaz` |
 
 > ⚠️ **Not:** Yama yalnızca belirtilen oyun sürümü ile test edilmiştir. Oyun güncellendiğinde yamanın da güncellenmesi gerekebilir.
 
@@ -138,7 +139,14 @@ Sağ taraftaki <a href="https://github.com/buadamlaz/permafrost-turkce-yama/rele
 ## 💬 Hata Bildirimi & Öneriler
 
 Çeviride bir hata mı buldunuz ya da bir öneriniz mi var? 📝
-[**Issues**](https://github.com/buadamlaz/permafrost-turkce-yama/issues) bölümünden bildirebilirsiniz. Her geri bildirim yamanın daha iyi olmasına katkı sağlar! 🙏
+[**Issues**](https://github.com/buadamlaz/permafrost-turkce-yama/issues) bölümünden bildirebilir ya da bana **Discord** üzerinden ulaşabilirsiniz. Her geri bildirim yamanın daha iyi olmasına katkı sağlar! 🙏
+
+<div align="center">
+
+[![GitHub Issues](https://img.shields.io/badge/GitHub-Issues-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/buadamlaz/permafrost-turkce-yama/issues)
+![Discord](https://img.shields.io/badge/Discord-@buadamlaz-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+
+</div>
 
 Yamayı beğendiyseniz sayfanın sağ üstündeki **⭐ Star** butonuna tıklamayı unutmayın!
 
