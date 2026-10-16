@@ -6,15 +6,15 @@
 
 **Buzul çağında hayatta kalma macerasını artık tamamen Türkçe yaşayın!**
 
-[![Sürüm](https://img.shields.io/badge/Uyumlu%20Sürüm-v0.44.3.4666-1e90ff?style=for-the-badge&logo=steam&logoColor=white)](#-yama-bilgileri)
-[![Güncelleme](https://img.shields.io/badge/Güncelleme-14.10.2026-00bcd4?style=for-the-badge&logo=clockify&logoColor=white)](#-yama-bilgileri)
+[![Sürüm](https://img.shields.io/badge/Uyumlu%20Sürüm-v0.44.3.4684-1e90ff?style=for-the-badge&logo=steam&logoColor=white)](#-yama-bilgileri)
+[![Güncelleme](https://img.shields.io/badge/Güncelleme-16.10.2026-00bcd4?style=for-the-badge&logo=clockify&logoColor=white)](#-yama-bilgileri)
 [![Dil](https://img.shields.io/badge/Dil-Türkçe-e30a17?style=for-the-badge)](#)
 
 <br>
 
-## 📥 [YAMAYI İNDİRMEK İÇİN TIKLAYIN](https://github.com/buadamlaz/permafrost-turkce-yama/releases/latest/download/Permafrost-Turkce-Yama.zip) 📥
+## 📥 [YAMAYI İNDİRMEK İÇİN TIKLAYIN](https://github.com/buadamlaz/permafrost-turkce-yama/releases/download/v0.44.3.4684/Permafrost-TR-v0.44.3.4684.zip) 📥
 
-[![İndir](https://img.shields.io/badge/⬇️%20İNDİR-Permafrost--Turkce--Yama.zip-2ea44f?style=for-the-badge)](https://github.com/buadamlaz/permafrost-turkce-yama/releases/latest/download/Permafrost-Turkce-Yama.zip)
+[![İndir](https://img.shields.io/badge/⬇️%20İNDİR-Permafrost--TR--v0.44.3.4684.zip-2ea44f?style=for-the-badge)](https://github.com/buadamlaz/permafrost-turkce-yama/releases/download/v0.44.3.4684/Permafrost-TR-v0.44.3.4684.zip)
 
 <sub>Bağlantıya tıkladığınızda indirme otomatik olarak başlar. Tüm sürümler için <a href="https://github.com/buadamlaz/permafrost-turkce-yama/releases">Releases</a> sayfasına bakabilirsiniz.</sub>
 
@@ -36,9 +36,9 @@ Bu yama ile oyundaki menüler, arayüz ve metinler **Türkçe** olarak karşın�
 | | |
 |---|---|
 | 🎮 **Oyun** | Permafrost |
-| 🔢 **Uyumlu Sürüm** | `v0.44.3.4666` |
-| 📅 **Güncelleme Tarihi** | 14.10.2026 |
-| 🏷️ **Yama Sürümü** | `v0.44.3.4666-fix1` |
+| 🔢 **Uyumlu Sürüm** | `v0.44.3.4684` |
+| 📅 **Güncelleme Tarihi** | 16.10.2026 |
+| 🏷️ **Yama Sürümü** | `v0.44.3.4684` |
 | 🌐 **Dil** | Türkçe |
 | 👤 **Geliştirici** | [buadamlaz](https://github.com/buadamlaz) |
 | 💬 **Discord** | [@buadamlaz](https://discord.com/users/533736767199903754) |
@@ -48,6 +48,12 @@ Bu yama ile oyundaki menüler, arayüz ve metinler **Türkçe** olarak karşın�
 ---
 
 ## 📜 Değişiklik Günlüğü
+
+### 🆕 `v0.44.3.4684` — 16.10.2026
+> 🎮 15.10.2026 tarihinde yayınlanan **v0.44.3.4684** oyun güncellemesine uyumlu hale getirildi.
+
+- 🔄 Yama yeni oyun sürümüne göre güncellendi.
+- ✅ Önceki sürümdeki tüm düzeltmeler (`+10` / `-10` crafting değerleri dahil) bu sürümde de geçerlidir.
 
 ### 🔧 `v0.44.3.4666-fix1` — 14.10.2026
 > 🎮 Oyun sürümü değişmedi (`v0.44.3.4666`), çeviri hataları giderildi.
@@ -67,10 +73,21 @@ Bu yama ile oyundaki menüler, arayüz ve metinler **Türkçe** olarak karşın�
 
 ---
 
+## 🗂️ Önceki Sürümler
+
+Oyununuz henüz güncellenmediyse, oyun sürümünüze uygun yamayı indirin:
+
+| 🎮 Oyun Sürümü | 🏷️ Yama Sürümü | 📅 Tarih | 📥 İndir |
+|:---:|:---:|:---:|:---:|
+| `v0.44.3.4684` | `v0.44.3.4684` **(Güncel)** | 16.10.2026 | [⬇️ Permafrost-TR-v0.44.3.4684.zip](https://github.com/buadamlaz/permafrost-turkce-yama/releases/download/v0.44.3.4684/Permafrost-TR-v0.44.3.4684.zip) |
+| `v0.44.3.4666` | `v0.44.3.4666-fix1` | 14.10.2026 | [⬇️ Permafrost-TR-v0.44.3.4666-fix1.zip](https://github.com/buadamlaz/permafrost-turkce-yama/releases/download/v0.44.3.4666-fix1/Permafrost-TR-v0.44.3.4666-fix1.zip) |
+
+---
+
 ## 🛠️ Kurulum
 
 ### 1️⃣ Yamayı indirin
-👉 **[Permafrost-Turkce-Yama.zip](https://github.com/buadamlaz/permafrost-turkce-yama/releases/latest/download/Permafrost-Turkce-Yama.zip)** dosyasını indirin.
+👉 **[Permafrost-TR-v0.44.3.4684.zip](https://github.com/buadamlaz/permafrost-turkce-yama/releases/download/v0.44.3.4684/Permafrost-TR-v0.44.3.4684.zip)** dosyasını indirin.
 
 ### 2️⃣ Oyunun kurulu olduğu ana dizini açın
 Steam kullanıyorsanız: **Steam ➜ Kütüphane ➜ Permafrost'a sağ tıklayın ➜ Yönet ➜ Yerel dosyalara göz at**
@@ -125,7 +142,7 @@ Zip içindeki <code>Permafrost</code> klasörünü <b>oyunun ana dizinine</b> (i
 <details>
 <summary>🔸 <b>Oyun güncellendi, yama çalışmıyor.</b></summary>
 <br>
-Yama <code>v0.44.3.4666</code> sürümü için hazırlanmıştır. Yeni sürümler için bu sayfayı takip edin. ⭐ vererek güncellemelerden haberdar olabilirsiniz.
+Güncel yama <code>v0.44.3.4684</code> oyun sürümü için hazırlanmıştır. Eski oyun sürümünü kullanıyorsanız <a href="#-önceki-sürümler">Önceki Sürümler</a> bölümünden size uygun yamayı indirebilirsiniz. Yeni sürümler için bu sayfayı takip edin. ⭐ vererek güncellemelerden haberdar olabilirsiniz.
 </details>
 
 <details>
